@@ -1,4 +1,5 @@
 # Object detection using deep learning with OpenCV and Python
+ ![](object-detection.jpg)
 
 The OpenCV dnn module now facilitates inference execution on pre-trained deep learning models from prominent frameworks such as Caffe, Torch, and TensorFlow.
 
